@@ -1,1 +1,2 @@
 ![](Capture.gif)
+![](Capture.png)
